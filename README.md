@@ -1,2 +1,2 @@
-# Bloodmagic
-Docs for Bloodmagic
+# Blood Magic
+Docs for Blood Magic
