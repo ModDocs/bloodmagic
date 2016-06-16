@@ -1,0 +1,2 @@
+# Bloodmagic
+Docs for Bloodmagic
