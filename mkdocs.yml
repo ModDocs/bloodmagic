@@ -12,7 +12,7 @@ markdown_extensions:
 pages:
   - 'Home': 'index.md'
   - 'Rituals':
-    - 'Ritual of the Full Spring': 'rituals/ritualOfTheFullspring.md'
+    - 'Ritual of the Full Spring': 'rituals/ritualOfTheFullSpring.md'
     - 'Serenade of the Nether': 'rituals/serenadeOfTheNether.md'
     - 'Ritual of the Green Grove': 'rituals/ritualOfTheGreenGrove.md'
     - 'Ritual of High Jump': 'rituals/ritualOfHighJump.md'
