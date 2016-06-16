@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Blood Magic", 
+            "text": "Blood Magic\n\n\nWelcome to the documentation of Blood Magic.", 
             "title": "Home"
         }, 
         {
             "location": "/#blood-magic", 
-            "text": "", 
+            "text": "Welcome to the documentation of Blood Magic.", 
             "title": "Blood Magic"
         }
     ]
