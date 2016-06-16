@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Blood Magic", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#blood-magic", 
+            "text": "", 
+            "title": "Blood Magic"
+        }
+    ]
+}
