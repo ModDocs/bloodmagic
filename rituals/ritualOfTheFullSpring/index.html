@@ -7,15 +7,15 @@
         
         
         
-        <link rel="shortcut icon" href="./docs/favicon.ico">
+        <link rel="shortcut icon" href="../../../../docs/favicon.ico">
         
 
-	<title>Blood Magic</title>
+	<title>Ritual of the Full Spring - Blood Magic</title>
 
-        <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="./css/font-awesome-4.5.0.css" rel="stylesheet">
-        <link href="./css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="./css/highlight.css">
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../../css/highlight.css">
 
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
@@ -26,7 +26,7 @@
         
     </head>
 
-    <body class="homepage">
+    <body>
 
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
@@ -44,7 +44,7 @@
             
 
             <!-- Main title -->
-            <a class="navbar-brand" href=".">Blood Magic</a>
+            <a class="navbar-brand" href="../..">Blood Magic</a>
         </div>
 
         <!-- Expanded navigation -->
@@ -54,37 +54,37 @@
                 <ul class="nav navbar-nav">
                 
                 
-                    <li class="active">
-                        <a href=".">Home</a>
+                    <li >
+                        <a href="../..">Home</a>
                     </li>
                 
                 
                 
-                    <li class="dropdown">
+                    <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Rituals <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                         
                             
-<li >
-    <a href="rituals/ritualOfTheFullSpring/">Ritual of the Full Spring</a>
+<li class="active">
+    <a href="./">Ritual of the Full Spring</a>
 </li>
 
                         
                             
 <li >
-    <a href="rituals/serenadeOfTheNether/">Serenade of the Nether</a>
+    <a href="../serenadeOfTheNether/">Serenade of the Nether</a>
 </li>
 
                         
                             
 <li >
-    <a href="rituals/ritualOfTheGreenGrove/">Ritual of the Green Grove</a>
+    <a href="../ritualOfTheGreenGrove/">Ritual of the Green Grove</a>
 </li>
 
                         
                             
 <li >
-    <a href="rituals/ritualOfHighJump/">Ritual of High Jump</a>
+    <a href="../ritualOfHighJump/">Ritual of High Jump</a>
 </li>
 
                         
@@ -102,13 +102,13 @@
                     </a>
                 </li>
                 
-                    <li class="disabled">
-                        <a rel="next" >
+                    <li >
+                        <a rel="next" href="../..">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
                     <li >
-                        <a rel="prev" href="rituals/ritualOfTheFullSpring/">
+                        <a rel="prev" href="../serenadeOfTheNether/">
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -133,15 +133,29 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#blood-magic">Blood Magic</a></li>
+        <li class="main active"><a href="#ritual-of-the-full-spring">Ritual of the Full Spring</a></li>
+        
+            <li><a href="#structure">Structure</a></li>
+        
+            <li><a href="#cost">Cost</a></li>
         
     
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="blood-magic">Blood Magic</h1>
-<p>Welcome to the documentation of Blood Magic.</p></div>
+<h1 id="ritual-of-the-full-spring">Ritual of the Full Spring</h1>
+<p>Perhaps the simplest of rituals. This ritual grabs the moisture in the air and condenses it, forming a source block of water on top of the MRS. It will spawn a water source block every tick.</p>
+<h3 id="structure">Structure</h3>
+<p>This rituals needs the following blocks:</p>
+<ul>
+<li>1x Master Ritual Stone</li>
+<li>4x Ritual Stone of Water</li>
+</ul>
+<p>In this formation:</p>
+<p><img alt="Ritual of the Full Spring" src="../img/ritualOfTheFullSpring.png" /></p>
+<h3 id="cost">Cost</h3>
+<p>It costs 500LP to activate the ritual and 25LP per block created.</p></div>
             
         </div>
 
@@ -151,12 +165,12 @@
             <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
 
-        <script src="./js/jquery-1.10.2.min.js"></script>
-        <script src="./js/bootstrap-3.0.3.min.js"></script>
-        <script src="./js/highlight.pack.js"></script>
-        <script>var base_url = '.';</script>
-        <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
-        <script src="./js/base.js"></script>
+        <script src="../../js/jquery-1.10.2.min.js"></script>
+        <script src="../../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../../js/highlight.pack.js"></script>
+        <script>var base_url = '../..';</script>
+        <script data-main="../../mkdocs/js/search.js" src="../../mkdocs/js/require.js"></script>
+        <script src="../../js/base.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
             <div class="modal-dialog">
@@ -185,8 +199,3 @@
 
     </body>
 </html>
-
-<!--
-MkDocs version : 0.15.3
-Build Date UTC : 2016-06-16 19:07:10.316041
--->

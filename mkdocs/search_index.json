@@ -1,0 +1,94 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Blood Magic\n\n\nWelcome to the documentation of Blood Magic.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#blood-magic", 
+            "text": "Welcome to the documentation of Blood Magic.", 
+            "title": "Blood Magic"
+        }, 
+        {
+            "location": "/rituals/ritualOfTheFullSpring/", 
+            "text": "Ritual of the Full Spring\n\n\nPerhaps the simplest of rituals. This ritual grabs the moisture in the air and condenses it, forming a source block of water on top of the MRS. It will spawn a water source block every tick.\n\n\nStructure\n\n\nThis rituals needs the following blocks:\n\n\n\n\n1x Master Ritual Stone\n\n\n4x Ritual Stone of Water\n\n\n\n\nIn this formation:\n\n\n\n\nCost\n\n\nIt costs 500LP to activate the ritual and 25LP per block created.", 
+            "title": "Ritual of the Full Spring"
+        }, 
+        {
+            "location": "/rituals/ritualOfTheFullSpring/#ritual-of-the-full-spring", 
+            "text": "Perhaps the simplest of rituals. This ritual grabs the moisture in the air and condenses it, forming a source block of water on top of the MRS. It will spawn a water source block every tick.", 
+            "title": "Ritual of the Full Spring"
+        }, 
+        {
+            "location": "/rituals/ritualOfTheFullSpring/#structure", 
+            "text": "This rituals needs the following blocks:   1x Master Ritual Stone  4x Ritual Stone of Water   In this formation:", 
+            "title": "Structure"
+        }, 
+        {
+            "location": "/rituals/ritualOfTheFullSpring/#cost", 
+            "text": "It costs 500LP to activate the ritual and 25LP per block created.", 
+            "title": "Cost"
+        }, 
+        {
+            "location": "/rituals/serenadeOfTheNether/", 
+            "text": "Serenade of the Nether\n\n\nThis ritual is slightly more sinister than its cousin, The Serenade of the Nether draws lava from across dimensions and generates a source block of lava on top of the MRS.\n\n\nStructure\n\n\nThis ritual needs the following blocks:\n\n\n\n\n1x Master Ritual Stone\n\n\n4x Ritual Stone of Fire\n\n\n\n\nIn this formation:\n\n\n\n\nCost\n\n\nThis ritual has an activation cost of 10,000LP and a refresh cost of 500LP per lava source block. This ritual can run your network dry if you use it too quickly.", 
+            "title": "Serenade of the Nether"
+        }, 
+        {
+            "location": "/rituals/serenadeOfTheNether/#serenade-of-the-nether", 
+            "text": "This ritual is slightly more sinister than its cousin, The Serenade of the Nether draws lava from across dimensions and generates a source block of lava on top of the MRS.", 
+            "title": "Serenade of the Nether"
+        }, 
+        {
+            "location": "/rituals/serenadeOfTheNether/#structure", 
+            "text": "This ritual needs the following blocks:   1x Master Ritual Stone  4x Ritual Stone of Fire   In this formation:", 
+            "title": "Structure"
+        }, 
+        {
+            "location": "/rituals/serenadeOfTheNether/#cost", 
+            "text": "This ritual has an activation cost of 10,000LP and a refresh cost of 500LP per lava source block. This ritual can run your network dry if you use it too quickly.", 
+            "title": "Cost"
+        }, 
+        {
+            "location": "/rituals/ritualOfTheGreenGrove/", 
+            "text": "Ritual of the Green Grove\n\n\nA ritual that is helpful for those stubborn plants that you need to grow quickly, the Green Grove force-grows plants by sending the plants in its range (3x3x1 horizontal pane two blocks above the MRS) a growth tick once a second. This can help you a steady supply of plants and crops.\n\n\nYes this also works on Sugarcane. (Or for modders: simply everything that is IGrowable or IPlantable)\n\n\nStructure\n\n\nThis ritual needs the following blocks:\n\n\n\n\n1x Master Ritual Stone\n\n\n4x Ritual Stone of Water\n\n\n4x Ritual Stone of Earth\n\n\n\n\nIn this formation:\n\n\n\n\nCost\n\n\nThis ritual has an activation cost of 5,000LP and each of these growth ticks costs 5LP per plant.", 
+            "title": "Ritual of the Green Grove"
+        }, 
+        {
+            "location": "/rituals/ritualOfTheGreenGrove/#ritual-of-the-green-grove", 
+            "text": "A ritual that is helpful for those stubborn plants that you need to grow quickly, the Green Grove force-grows plants by sending the plants in its range (3x3x1 horizontal pane two blocks above the MRS) a growth tick once a second. This can help you a steady supply of plants and crops.  Yes this also works on Sugarcane. (Or for modders: simply everything that is IGrowable or IPlantable)", 
+            "title": "Ritual of the Green Grove"
+        }, 
+        {
+            "location": "/rituals/ritualOfTheGreenGrove/#structure", 
+            "text": "This ritual needs the following blocks:   1x Master Ritual Stone  4x Ritual Stone of Water  4x Ritual Stone of Earth   In this formation:", 
+            "title": "Structure"
+        }, 
+        {
+            "location": "/rituals/ritualOfTheGreenGrove/#cost", 
+            "text": "This ritual has an activation cost of 5,000LP and each of these growth ticks costs 5LP per plant.", 
+            "title": "Cost"
+        }, 
+        {
+            "location": "/rituals/ritualOfHighJump/", 
+            "text": "Ritual of High Jump\n\n\nThis ritual looks for any living entity that is above the MRS and then shoots them into the air. If a person is pressing shift, the person will be able to land safely without being sent flying.\n\n\nStructure\n\n\nThis ritual needs the following blocks:\n\n\n\n\n1x Master Ritual Stone\n\n\n6x Ritual Stone of Air\n\n\n\n\nIn this formation:\n\n\n\n\nCost\n\n\nThis ritual costs 5,000LP to activate and 5LP per operation.", 
+            "title": "Ritual of High Jump"
+        }, 
+        {
+            "location": "/rituals/ritualOfHighJump/#ritual-of-high-jump", 
+            "text": "This ritual looks for any living entity that is above the MRS and then shoots them into the air. If a person is pressing shift, the person will be able to land safely without being sent flying.", 
+            "title": "Ritual of High Jump"
+        }, 
+        {
+            "location": "/rituals/ritualOfHighJump/#structure", 
+            "text": "This ritual needs the following blocks:   1x Master Ritual Stone  6x Ritual Stone of Air   In this formation:", 
+            "title": "Structure"
+        }, 
+        {
+            "location": "/rituals/ritualOfHighJump/#cost", 
+            "text": "This ritual costs 5,000LP to activate and 5LP per operation.", 
+            "title": "Cost"
+        }
+    ]
+}
