@@ -1,4 +1,5 @@
 site_name: Blood Magic
+site_favicon: docs/favicon.ico
 repo_url: https://github.com/ModDocs/bloodmagic
 strict: true
 
@@ -9,4 +10,8 @@ markdown_extensions:
   - fenced_code
 
 pages:
-  - Home: index.md
+  - Home: 'index.md'
+  - Rituals:
+    - Ritual of the Full Spring: 'rituals/ritualOfTheFullspring.md'
+    - Serenade of the Nether: 'rituals/serenadeOfTheNether.md'
+    - Ritual of the Green Grove: 'rituals/ritualOfTheGreenGrove.md'
