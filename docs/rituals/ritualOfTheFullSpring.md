@@ -9,7 +9,7 @@ This rituals needs the following blocks:
 
 In this formation:
 
-![Ritual of the Full Spring](img/fullSpring.png)
+![Ritual of the Full Spring](img/ritualOfTheFullSpring.png)
 
 ###Cost
 It costs 500LP to activate the ritual and 25LP per block created.
